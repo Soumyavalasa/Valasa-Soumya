@@ -6,6 +6,16 @@
    - Hands-on experience on projects
    - Python Full-Stack Web Developer
    - Learning and Contributing Mindset
+
+🔗 **Projects**
+   - Exam Invigilation Duty Management System
+     * •	Developed a web-based *Exam Invigilation Duty Management System* to automate and manage examination invigilation assignments.
+       •	Implemented *faculty management and duty allocation* based on exam schedules and availability.
+       •	Designed modules to manage *exam details, classrooms, faculty duties, and duty schedules* efficiently.
+       •	Implemented *CRUD operations* for managing faculty, examinations, and invigilation duty records.
+       •	Created a user-friendly *dashboard* to view assigned duties, exam schedules, and faculty duty information.
+       •	Technologies: Python, Django, HTML, CSS, JavaScript, MySQL
+
      
 🔗 **Web Development Skills**
    **Languages & Basics**
